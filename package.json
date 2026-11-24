@@ -4,6 +4,6 @@
   "description": "Intentionally seeds a Dependabot alert via known-vulnerable lodash version. Not for production use.",
   "private": true,
   "dependencies": {
-    "lodash": "4.17.4"
+    "lodash": "4.18.1"
   }
 }
